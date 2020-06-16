@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="custom_field" label="Custom field" language="en" table="x_22995_jfk_kerrig_jfk_kerrigan">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>custom_field</element>
+            <help/>
+            <hint/>
+            <label>Custom field</label>
+            <language>en</language>
+            <name>x_22995_jfk_kerrig_jfk_kerrigan</name>
+            <plural>Custom fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jim.kerrigan</sys_created_by>
+            <sys_created_on>2020-06-01 17:17:36</sys_created_on>
+            <sys_id>ddf0428f2f499c10b99eb2e72799b69e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Custom field</sys_name>
+            <sys_package display_value="JFK Kerrigan" source="x_22995_jfk_kerrig">f8404acb2f499c10b99eb2e72799b6d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JFK Kerrigan">f8404acb2f499c10b99eb2e72799b6d0</sys_scope>
+            <sys_update_name>sys_documentation_x_22995_jfk_kerrig_jfk_kerrigan_custom_field_en</sys_update_name>
+            <sys_updated_by>jim.kerrigan</sys_updated_by>
+            <sys_updated_on>2020-06-01 17:17:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

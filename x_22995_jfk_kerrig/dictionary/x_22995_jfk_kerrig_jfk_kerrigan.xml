@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="JFK Kerrigan" max_length="40" name="x_22995_jfk_kerrig_jfk_kerrigan" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Custom field" max_length="40" name="custom_field" type="string"/>
+    </element>
+</database>
